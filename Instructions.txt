@@ -1,0 +1,12 @@
+In your repository, browse to the file you want to edit.
+Edit file buttonIn the upper right corner of the file view, click  to open the file editor.
+New content in fileOn the Edit file tab, make any changes you need to the file.
+File preview buttonAbove the new content, click Preview changes.
+
+Commit message for your changeAt the bottom of the page, type a short, meaningful commit message that describes the change you made to the file. You can attribute the commit to more than one author in the commit message. For more information, see "Creating a commit with multiple co-authors."
+
+Choose commit email addressesBelow the commit message fields, click the email address drop-down menu and choose a Git author email address. Only verified email addresses appear in this drop-down menu. If you enabled email address privacy, then username@users.noreply.github.com is the default commit author email address. For more information, see "About commit email addresses."
+
+Commit branch optionsBelow the commit message fields, decide whether to add your commit to the current branch or to a new branch. If your current branch is master, you should choose to create a new branch for your commit and then create a pull request.
+
+Propose file change buttonClick Propose file change.
